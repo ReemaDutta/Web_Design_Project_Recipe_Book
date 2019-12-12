@@ -1,6 +1,6 @@
 # Final Project
 
-##  Group StackOverflow
+##  Recipe Book
 
 ### Installation
 * Run the command to install node modules --> npm install   
